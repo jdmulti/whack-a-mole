@@ -1,7 +1,7 @@
 # Whack a Goomba
 
-![Screen Start](docs/images/game_screen_start.jpg)
-![Screen Game](docs/images/game_screen_game.jpg)
+![Screen Start](Docs/Images/game_screen_start.jpg)
+![Screen Game](Docs/Images/game_screen_game.jpg)
 
 ---
 
